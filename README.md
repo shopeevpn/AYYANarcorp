@@ -88,9 +88,6 @@ chmod +x /var/run/screen
    - Auto-Reboot              : [OFF]
    - IPv6                     : [OFF]
    - Auto-Remove-Expired      : [ON]
-   - Installation Log --> /root/log-install.txt
-
-   - Installation Log --> /root/log-install.txt
 
 -----------------------------Script by RARE-------------------------------------
 
